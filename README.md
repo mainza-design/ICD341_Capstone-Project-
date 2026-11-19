@@ -56,4 +56,4 @@ All random processes use seed `123` (NumPy `default_rng`). Library versions are
 listed in `requirements.txt`. No absolute paths are used.
 
 ## Author
-Student Name | Student Number
+Mainza Muya  | 202406802 
